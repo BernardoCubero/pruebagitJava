@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="VideoClub_Java_Eclipse-master/src"/>
+	<classpathentry kind="output" path="VideoClub_Java_Eclipse-master/bin"/>
+</classpath>
