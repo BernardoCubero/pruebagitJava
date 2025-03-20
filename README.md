@@ -1,2 +1,2 @@
-[!NOTE]
+.[!NOTE]
 Esto es una prueba de git
